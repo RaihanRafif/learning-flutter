@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "425489099406",
+    "project_id": "tugasakhir-sanbercode",
+    "storage_bucket": "tugasakhir-sanbercode.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425489099406:android:3e59270a42d8658f9937df",
+        "android_client_info": {
+          "package_name": "com.example.tugasakhir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425489099406-kfhfet44gi77c7b7hv8pda7b85p5vglr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6G8p7OHeObGVKyDCopVGiJbCoIrfecxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425489099406-kfhfet44gi77c7b7hv8pda7b85p5vglr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
